@@ -1,7 +1,7 @@
 export default function Footer(){
     return(
         <>
-        <h4>All Rights Reserved @2026</h4>
+        <h4>@2026 All Rights Reserved </h4>
         </>
     )
 }
